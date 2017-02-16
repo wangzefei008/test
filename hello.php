@@ -4,6 +4,5 @@
 	echo "******************";
 	echo "This is a master";
 	echo "******************";
-	echo "This is a demo";
 	echo "******************";
 ?>
