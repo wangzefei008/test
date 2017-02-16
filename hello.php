@@ -4,5 +4,6 @@
 	echo "******************";
 	echo "This is a master";
 	echo "******************";
+	echo "lalalalalala"
 	echo "******************";
 ?>
